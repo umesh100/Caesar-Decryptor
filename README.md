@@ -3,7 +3,7 @@
 An approach to encrypt/decrypt words using ceasar cipher.If no key is given, bruteforce is used to compare each output with dictionary
 
 ## CaesarEngine
--Takes user input, and stores it in string array using buffer reader
+-Takes user input and stores it in string array using buffer reader
 -Takes key from user
 -Pass each element through encryptor or decryptor method
 
