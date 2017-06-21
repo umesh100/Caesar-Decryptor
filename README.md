@@ -20,7 +20,7 @@ An approach to encrypt/decrypt words using ceasar cipher.If no key is given, bru
 ## Issues
 -Bruteforce not working if a word is substring  of another word from dictionary
 
--While word is compared to dictionary,likely to find more than one match. In that case, returns all values.
+-Likely to find more than one match for bruteforce result. In that case, returns all values.
 
 
 
