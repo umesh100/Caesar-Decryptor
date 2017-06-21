@@ -4,7 +4,7 @@ An approach to encrypt/decrypt words using ceasar cipher.If no key is given, bru
 
 ## CaesarEngine
 -Takes user input, and stores it in string array using buffer reader
--Takes asks key from user
+-Takes key from user
 -Pass each element through encryptor or decryptor method
 
 ## Encryptor
