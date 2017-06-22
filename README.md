@@ -1,4 +1,4 @@
-#Caesar Encryptor/Decryptor
+# Caesar Encryptor/Decryptor
 
 An approach to encrypt/decrypt words using ceasar cipher.If no key is given, bruteforce is used to compare each output with dictionary
 
